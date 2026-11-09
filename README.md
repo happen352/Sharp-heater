@@ -1,5 +1,3 @@
-# Sharp-heater
-
 """
 Sharp-heater: A lightweight utility for workflow automation.
 """
@@ -13,7 +11,5 @@ def process_workflow(task_name: str) -> bool:
 
 if __name__ == "__main__":
     process_workflow("optimize_pipeline")
-
-
 
 
